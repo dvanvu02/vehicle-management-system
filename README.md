@@ -19,3 +19,10 @@ Developed as part of a university assignment to practice **Java OOP, DSA, and Fi
 - JUnit (Unit Testing)  
 
 ## 📂 Project Structure
+
+## 📖 Learning Outcomes
+- Practiced OOP principles (encapsulation, inheritance, polymorphism).
+- Applied File I/O for persistence.
+- Gained hands-on experience with JUnit testing.
+
+#### dvanvu02
