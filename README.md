@@ -19,11 +19,3 @@ Developed as part of a university assignment to practice **Java OOP, DSA, and Fi
 - JUnit (Unit Testing)  
 
 ## 📂 Project Structure
-
-## ▶️ How to Run
-1. Clone the repository  
-git clone https://github.com/yourusername/VehicleManagementSystem.git
-
-2. Open in IntelliJ IDEA / NetBeans / Eclipse
-
-3. Run Main.java
