@@ -33,6 +33,7 @@ src/
 │ └── Utils.java
 └── main/
 └── Main.java
+```
 ## ▶️ How to Run
 1. Clone the repository:
     ```bash
