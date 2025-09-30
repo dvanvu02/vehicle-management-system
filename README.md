@@ -43,9 +43,7 @@ src/
 2.Open the project in your IDE (e.g., Eclipse, NetBeans, IntelliJ, VS Code).
 
 3.Compile and run Main.java.
-
 4. Interact with the menu to manage vehicles.
-
 ## 📝 Sample Run
 ----------Vehicle Management System----------
 1. Load data from file
