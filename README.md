@@ -33,7 +33,7 @@ src/
  │   └── Utils.java          # Utility/helper functions (validation, etc.)
  ├── main/
  |   └── Main.java           # Entry point of the program
- └── README.md         # Project documentation
+ └── README.md               # Project documentation
 ```
 ## ▶️ How to Run
 
