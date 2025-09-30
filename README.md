@@ -2,7 +2,7 @@
 ## 📌 Overview
 - A console-based application for managing vehicles in a showroom.  
 - Supports two types of vehicles: **Car** and **Motorbike**.  
-- Developed as part of a university assignment to practice **Java OOP, DSA, and File I/O**.  
+- Developed as part of a university assignment to practice **Java, OOP, DSA, and File I/O**.  
 ## 🚀 Features
 - Add new vehicle (Car or Motorbike) with validation.
 - Update vehicle details by ID.  
@@ -36,6 +36,7 @@ src/
 ```
 ## ▶️ How to Run
 1. Clone the repository:
+
     ```bash
     git clone https://github.com/dvanvu02/vehicle-management-system.git
     ```
