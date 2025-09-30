@@ -22,17 +22,18 @@
 ## 📂 Project Structure
 ```plaintext
 src/
-├── data/
-│ ├── Vehicle.java
-│ ├── Car.java
-│ ├── Motorbike.java
-│ └── Showroom.java
-├── ui/
-│ └── Menu.java
-├── util/
-│ └── Utils.java
-└── main/
-└── Main.java
+ ├── data/
+ │   ├── Vehicle.java        # Abstract class (base for all vehicles)
+ │   ├── Car.java            # Car entity (inherits Vehicle)
+ │   ├── Motorbike.java      # Motorbike entity (inherits Vehicle)
+ │   └── Showroom.java       # Collection manager for vehicles
+ ├── ui/
+ │   └── Menu.java           # Handles menu display and user interaction
+ ├── util/
+ │   └── Utils.java          # Utility/helper functions (validation, etc.)
+ ├── main/
+ |   └── Main.java           # Entry point of the program
+ └── README.md         # Project documentation
 ```
 ## ▶️ How to Run
 
@@ -71,4 +72,4 @@ Choose [1..8]:
 - Practiced OOP principles (Encapsulation, Inheritance, Abstraction, Polymorphism).
 - Applied File I/O for persistence.
 - Learned to design modular code with multiple packages.
-#### dvanvu02
+#### @dvanvu02
