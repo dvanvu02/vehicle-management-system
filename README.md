@@ -20,6 +20,7 @@ Developed as part of a university assignment to practice **Java OOP, DSA, and Fi
 - OOP (Encapsulation, Inheritance, Abstraction, Polymorphism)
 - File I/O
 ## 📂 Project Structure
+```plaintext
 src/
 ├── data/
 │ ├── Vehicle.java
